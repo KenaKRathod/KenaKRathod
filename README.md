@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @KenaKRathod
-- 👀 I’m interested in ...
+- 👀 I’m a enthusiastic 
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 KenaKRathod/KenaKRathod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
