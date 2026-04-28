@@ -19,7 +19,6 @@ I'm a developer with a passion for building innovative solutions in **Agentic AI
 
 ### 💡 What I'm Currently Working On
 - 🤖 Building **Healthcare AI Agent** - Full-scale AI solution for healthcare domain
-- 🚀 Enhancing **Pitch-er Perfect 2.0** - A modern pitching competition platform
 - 🌐 Developing elegant web experiences
 
 ---
@@ -131,9 +130,8 @@ def my_interests():
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/KenaKRathod)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com)
-[![Email](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/kena-rathod-0b5aa7206)
+[![Email](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kkrathod2008@gmail.com)
 
 </div>
 
@@ -150,7 +148,6 @@ def my_interests():
 ## 🎯 Goals for 2026
 
 - ✅ Complete Healthcare AI Agent implementation
-- ✅ Launch Pitch-er Perfect 2.0 v2.0
 - ✅ Contribute to open-source projects
 - ✅ Explore emerging AI technologies
 - ✅ Build production-grade applications
